@@ -1,0 +1,15 @@
+### Parámetros para el optimizador
+1024					# Tamaño de la población
+1000					# Iteraciones máximas
+0.5					# Probabilidad de recombinación
+0.5					# Factor de mutación
+1109					# Semilla número aleatorio
+
+### Condiciones iniciales y límites
+-3.0					# Tiempo inicial
+70.0					# Tiempo final
+0.31					# Virus inicial V0
+3					# Número de variables
+1.0, 10.0				# Limites variable 1 (p)
+1e-10, 1e-7				# Limites variable 2 (ct)
+0.01, 1.0				# Limites variable 3 (r)
